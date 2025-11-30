@@ -1,8 +1,6 @@
-package;
+package jonah.battle;
 
-import flixel.FlxState;
-
-class PlayState extends FlxState
+class BattleState extends FlxState
 {
 	override public function create()
 	{
